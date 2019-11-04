@@ -1,3 +1,3 @@
 # Knight-Tour
 PYTHON 
-"READ IN PACKET HOMEWORK08 describe"
+"read packet homework 08 "
